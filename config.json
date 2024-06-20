@@ -1,0 +1,12 @@
+{
+  "token": "MTI1MzIxMjc0ODgxNzUwMjMwMA.GS0hv3.6eGMuECY0QfqxqkcE_e0d-nBtIquzy5OWyV5qw",
+  "targetGuild": "1132787343368134816",
+  "serverCategory": "1253212325335273545",
+  "archiveCategory": "1253212367001485424",
+  "prefix": ">",
+  "role": "1253214436504764538",
+  "log_channel":"1253214241910161438",
+  "api-disable":[ 
+		"RunEval"
+	]
+}
