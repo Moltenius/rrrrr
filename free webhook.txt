@@ -1,0 +1,9 @@
+Communications Webhook for Github Scrapers : 
+https://discord.com/api/webhooks/1038257538786934844/jYmP6AUFfbmZIIzHiYKdYnWTQ35wPZl7RbMfwJezFwzSQhNfPeAKm8_cVr4F0M24rSwS
+
+(Can only send to this, I won't respond back.. I hope you know how to use this)
+
+If anyone reads this, just know that this webhook is intentionally left public in order to catch github scrapers like you guys, It's one of Project Gabriel's 
+many unique methods of recruitment.  Specifically we are looking for scripters who can script in Luau (Roblox Lua), TypeScript and/or Node.js
+
+Should you ever find me, We are recruiting.
