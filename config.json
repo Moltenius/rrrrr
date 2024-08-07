@@ -1,11 +1,11 @@
 {
-  "token": "MTI1MzIxMjc0ODgxNzUwMjMwMA.Gz-cAD.vHs6d9y82kIQTpcbK9WK2hucCIvMDkikn_PgUU",
-  "targetGuild": "1132787343368134816",
-  "serverCategory": "1253212325335273545",
-  "archiveCategory": "1253212367001485424",
+  "token": "MTI3MDc0NDA2MTc3NDUzMjYxOQ.Gf4Hjp.lrU0MMy31ers1eYHA7x5Sp8Ryw4Y274lxzRm8c",
+  "targetGuild": "1270743892530171988",
+  "serverCategory": "1270744703570149548",
+  "archiveCategory": "1270745256354386084",
   "prefix": ">",
-  "role": "1253214436504764538",
-  "log_channel":"1253214241910161438",
+  "role": "1270745428740014212",
+  "log_channel":"1270745811474714685",
   "api-disable":[ 
 		"RunEval"
 	]
